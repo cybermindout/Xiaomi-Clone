@@ -102,10 +102,6 @@ feature-1 button{
   position: relative;
   border-top: 15px solid #ffffff;
 }
-/* .feature-2:hover{
-    transform: scale(1.005);
-    overflow: hidden;
-} */
 .feature-2 h1{
   padding: 10px 160px;
   font-size: 40px;
