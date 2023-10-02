@@ -8,6 +8,7 @@ body{
   background-color: #fefefe;
   color: black;
 }
+/* Css for Navigation Bar */
 .header{
   width: 100%;
   height: 5vh;
@@ -59,6 +60,7 @@ a .search{
   position: fixed;
   z-index: 4;
 }
+/* Css for feature 2 */
 .feature-1{
   width: 100%;
   height: 60vh;
@@ -91,6 +93,7 @@ feature-1 button{
   margin-top: 10px;
   margin-left: 160px;
 }
+/* Css for featur 2 */
 .feature-2{
   position: relative;
   width: 100%;
@@ -129,6 +132,7 @@ feature-2 button{
 .back{
   color: #000000;
 }
+/* Css for feature 3 */
 .text {
   width: 919px;
     background-image: url(img/feature1.png);
@@ -169,6 +173,7 @@ feature-2 button{
   height: 650px;
   z-index: -1;
 }
+/* Css for featur 4 */
 .text2{
   width: 919px;
   background-color: rgb(255, 255, 255);
@@ -221,6 +226,7 @@ feature-2 button{
   display: flex;
   justify-content: space-between;
 }
+/* Css for feature 5 */
 .feature-5 {
   display: flex;
 justify-content: space-between; 
@@ -269,6 +275,7 @@ justify-content: space-between;
   display: flex;
   justify-content: space-between;
 }
+/* Css for feature 6 */
 .text4{
   width: 485px;
   background-color: rgb(255, 255, 255);
@@ -314,6 +321,7 @@ justify-content: space-between;
   display: flex;
   justify-content: space-between;
 }
+/* Css for feature 7 */
 .feature-7 {
     width: 420px;
     background-color: rgb(255, 255, 255);
@@ -364,8 +372,9 @@ justify-content: space-between;
     margin-bottom: -16px;
     width: 326px
 }
+/* Css for Footer */
 .footer-container{
-  width: 60%;
+  width: 60%; 
  justify-content: space-between;
 
 }
